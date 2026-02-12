@@ -65,5 +65,31 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 Output:
 
+![IMG-20260212-WA0000](https://github.com/user-attachments/assets/3f6a6f7a-6abd-4670-889d-ae5561a8768d)
+
+![IMG-20260212-WA0002](https://github.com/user-attachments/assets/5979cd4d-ac5f-4ee4-9241-e9660dfb48c7)
+
+![IMG-20260212-WA0001](https://github.com/user-attachments/assets/81b267d3-ffe8-4db1-a85f-18c6306d6038)
+
+![IMG-20260212-WA0003](https://github.com/user-attachments/assets/715e293f-ec4a-4013-9c39-3d84cd2e5c80)
+
+![IMG-20260212-WA0004](https://github.com/user-attachments/assets/27daa298-d22a-4c34-8775-1ea87de0ade6)
+
+![IMG-20260212-WA0005](https://github.com/user-attachments/assets/df6f1968-76ad-4e4c-80ba-ee60fac1569d)
+
+![IMG-20260212-WA0006](https://github.com/user-attachments/assets/fad44cd1-7371-4511-b1c7-fa7e8726569a)
+
+![IMG-20260212-WA0010](https://github.com/user-attachments/assets/d60a0568-5493-4311-9d0e-9ff92da67fb9)
+
+![IMG-20260212-WA0014](https://github.com/user-attachments/assets/98e38a76-70f5-40de-b815-6bc2b832218e)
+
+![IMG-20260212-WA0013](https://github.com/user-attachments/assets/552b7521-542d-4838-a5c6-cbf5ae99655e)
+
+![IMG-20260212-WA0012](https://github.com/user-attachments/assets/2f758f8a-a18b-4329-af18-c32155a013cf)
+
+
+![IMG-20260212-WA0011](https://github.com/user-attachments/assets/ddcb1f32-351f-457a-9686-fb5dd8c9e7ee)
+
 
 Result:
+Thus a comprehensive report has been generated for the given topics.
